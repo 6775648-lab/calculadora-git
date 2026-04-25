@@ -1,1 +1,2 @@
-"Calculadora B sica: Suma, Resta y Multiplicaci¢n" 
+"Calculadora BÂ sica: Suma y Resta" 
+"CorrecciÂ¢n: Soporte para nÂ£meros negativos activado" 
